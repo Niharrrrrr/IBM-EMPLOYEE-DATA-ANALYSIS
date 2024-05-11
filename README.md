@@ -22,6 +22,9 @@ The dataset used in this analysis is the [IBM HR Analytics Attrition Dataset](ht
 
 ## Summary of Findings
 -Exploratory data analysis (EDA) revealed insights into the distribution and relationships between various employee attributes.
+
 -Data preprocessing steps included handling missing values, encoding categorical variables, and feature scaling.
+
 -Models such as Logistic Regression, Random Forest, XGBoost, and Support Vector Machine were trained and evaluated for predicting employee attrition.
+
 -XGBoost and Random Forest models demonstrated the highest performance in distinguishing between positive and negative instances of attrition, with higher AUC scores.
