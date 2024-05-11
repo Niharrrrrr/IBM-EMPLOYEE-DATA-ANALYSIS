@@ -1,16 +1,15 @@
-# IBM-EMPLOYEE-DATA-ANALYSIS
+# IBM HR Data Analysis
+
 This project aims to analyze IBM HR data to understand factors contributing to employee attrition and develop predictive models to identify employees at risk of leaving the company.
 
-About the Dataset
-The dataset used in this analysis is the IBM HR Analytics Attrition Dataset. It contains various attributes of employees such as age, education, job role, and whether they have left the company (attrition).
+## About the Dataset
+The dataset used in this analysis is the [IBM HR Analytics Attrition Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset). It contains various attributes of employees such as age, education, job role, and whether they have left the company (attrition).
 
-Installation and Execution
-Clone the Repository:
+## Installation and Execution
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/ibm-hr-data-analysis.git```
 
-'''git clone https://github.com/your-username/ibm-hr-data-analysis.git'''
-
-
-Install Dependencies:
 
 '''pip install -r requirements.txt'''
 
