@@ -8,7 +8,7 @@ The dataset used in this analysis is the [IBM HR Analytics Attrition Dataset](ht
 ## Installation and Execution
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/ibm-hr-data-analysis.git
+   git clone https://github.com/your-username/ibm-hr-data-analysis.git](https://github.com/Niharrrrrr/IBM-EMPLOYEE-DATA-ANALYSIS.git
 
 2. **Install Dependencies:**
 
