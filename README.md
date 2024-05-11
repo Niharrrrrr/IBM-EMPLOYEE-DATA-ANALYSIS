@@ -19,6 +19,10 @@ The dataset used in this analysis is the [IBM HR Analytics Attrition Dataset](ht
 
    ```bash
    IBM_Attrition_Data_Analysis_python.py
+   
+4. Video Presentation
+   ```bash
+   https://drive.google.com/drive/folders/1n3qEnned1WUSJzCVJoUI7mbsLBCT5qEy?usp=sharing
 
 ## Summary of Findings
 -Exploratory data analysis (EDA) revealed insights into the distribution and relationships between various employee attributes.
