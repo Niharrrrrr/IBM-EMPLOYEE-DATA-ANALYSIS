@@ -22,7 +22,6 @@ About Dataset: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-at
    - 2] Random Forest
    - 3] Support Vector Machine
    - 4] XGBOOST
-   - 5] ADABOOST
 - Comparing Model Performance
 
 #Importing Libraries.
